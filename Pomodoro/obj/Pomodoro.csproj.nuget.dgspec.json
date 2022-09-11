@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\dm\\Programs Languages\\CSharp\\WPF App\\Pomodoro\\Pomodoro\\Pomodoro.csproj": {}
+    "D:\\GitHubProjects\\CSharp-Pomodoro-WPF-\\Pomodoro\\Pomodoro.csproj": {}
   },
   "projects": {
-    "F:\\dm\\Programs Languages\\CSharp\\WPF App\\Pomodoro\\Pomodoro\\Pomodoro.csproj": {
+    "D:\\GitHubProjects\\CSharp-Pomodoro-WPF-\\Pomodoro\\Pomodoro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\dm\\Programs Languages\\CSharp\\WPF App\\Pomodoro\\Pomodoro\\Pomodoro.csproj",
+        "projectUniqueName": "D:\\GitHubProjects\\CSharp-Pomodoro-WPF-\\Pomodoro\\Pomodoro.csproj",
         "projectName": "Pomodoro",
-        "projectPath": "F:\\dm\\Programs Languages\\CSharp\\WPF App\\Pomodoro\\Pomodoro\\Pomodoro.csproj",
-        "packagesPath": "C:\\Users\\Lordi\\.nuget\\packages\\",
-        "outputPath": "F:\\dm\\Programs Languages\\CSharp\\WPF App\\Pomodoro\\Pomodoro\\obj\\",
+        "projectPath": "D:\\GitHubProjects\\CSharp-Pomodoro-WPF-\\Pomodoro\\Pomodoro.csproj",
+        "packagesPath": "C:\\Users\\Juli\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHubProjects\\CSharp-Pomodoro-WPF-\\Pomodoro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lordi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Juli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

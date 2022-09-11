@@ -20,3 +20,25 @@ F:\dm\Programs Languages\CSharp\WPF App\Pomodoro\Pomodoro\obj\Debug\net6.0-windo
 F:\dm\Programs Languages\CSharp\WPF App\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.pdb
 F:\dm\Programs Languages\CSharp\WPF App\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.genruntimeconfig.cache
 F:\dm\Programs Languages\CSharp\WPF App\Pomodoro\Pomodoro\obj\Debug\net6.0-windows\ref\Pomodoro.dll
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.exe
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.deps.json
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.runtimeconfig.json
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.dll
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\bin\Debug\net6.0-windows\Pomodoro.pdb
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.csproj.AssemblyReference.cache
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\Resources.baml
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\App.g.cs
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\Pomodoro_MarkupCompile.cache
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\Pomodoro_MarkupCompile.lref
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\MainWindow.baml
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.g.resources
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.AssemblyInfoInputs.cache
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.AssemblyInfo.cs
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.dll
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\refint\Pomodoro.dll
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.pdb
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\Pomodoro.genruntimeconfig.cache
+D:\GitHubProjects\CSharp-Pomodoro-WPF-\Pomodoro\obj\Debug\net6.0-windows\ref\Pomodoro.dll

@@ -30,7 +30,7 @@
                                   Foreground="#ed3b3b"
                                   Content="Start" FontSize="100"
                                   Width="500" Height="150"
-                                  Template="{StaticResource startButtonTemplate}"/>
+                                  Template="{StaticResource startButtonTemplateActive}"/>
                     </Grid>
                 </TabItem.Content>
             </TabItem>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JLt5gZlFpEVB5Bo5nlGwrZo3ZH0uyQOrc+cVNQRqmAfRpgMKE3ueyNlbH7omq0FMy4GHQNnJEFeitC5HVsohIw==",
+  "dgSpecHash": "OhmrDJ/WEiPvMZLrZS+VwgpcUj5sT1rsvrZxRlLn9bJkBKeY2wke6Goz9Yb4yXHDEwZOjmJMEpFP8mfOjIBUQQ==",
   "success": true,
-  "projectFilePath": "F:\\dm\\Programs Languages\\CSharp\\WPF App\\Pomodoro\\Pomodoro\\Pomodoro.csproj",
+  "projectFilePath": "D:\\GitHubProjects\\CSharp-Pomodoro-WPF-\\Pomodoro\\Pomodoro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

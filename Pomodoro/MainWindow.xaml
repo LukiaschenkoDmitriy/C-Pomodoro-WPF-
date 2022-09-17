@@ -9,31 +9,7 @@
     <Window.Resources>
         <ResourceDictionary Source="Resources.xaml"/>
     </Window.Resources>
-    <Grid>
-        <TabControl x:Name="pomodoroblocks">
-            <TabItem x:Name="pomodoro">
-                <TabItem.Header>
-                    <TextBlock>Pomodoro</TextBlock>
-                </TabItem.Header>
-                <TabItem.Content>
-                    <Grid x:Name="pomodoroModeGrid" Background="#ed3b3b">
-                        <Grid.RowDefinitions>
-                            <RowDefinition></RowDefinition>
-                            <RowDefinition></RowDefinition>
-                        </Grid.RowDefinitions>
-                        <Label x:Name="pomodoroTimer" VerticalAlignment="Center" HorizontalAlignment="Center" 
-                               Foreground="White" 
-                               FontSize="200" Content="20:00"
-                               Template="{StaticResource timerTemplate}" />
-                        <CheckBox x:Name="pomodoroCheck" Grid.Row="1"
-                                  VerticalAlignment="Center" HorizontalAlignment="Center"
-                                  Foreground="#ed3b3b"
-                                  Content="Start" FontSize="100"
-                                  Width="500" Height="150"
-                                  Template="{StaticResource startButtonTemplateActive}"/>
-                    </Grid>
-                </TabItem.Content>
-            </TabItem>
-        </TabControl>
+    <Grid x:Name="grid">
+        
     </Grid>
 </Window>

@@ -2,9 +2,22 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net6.0-windows</TargetFramework>
+    <TargetFramework>net6.0-windows10.0.20348.0</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>bin\Debug\net6.0-windows10.0.20348.0\assets\logo\logo.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0-windows10.0.20348.0\assets\logo\logo.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Toolkit.Uwp.Notifications" Version="7.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="assets\logo\" />
+  </ItemGroup>
 
 </Project>

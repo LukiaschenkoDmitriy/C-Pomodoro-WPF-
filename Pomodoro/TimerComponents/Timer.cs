@@ -32,6 +32,9 @@ namespace Pomodoro.Components
         public delegate void NotifyTimerStopHandler();
         public event NotifyTimerStopHandler NotifyTimerStopEvent;
 
+        public delegate void TimerDelegate(TimeSpan timer);
+        public event TimerDelegate TimerTickEvent;
+
         #endregion
         #region ctor
         public Timer(TimeSpan time)
@@ -54,8 +57,16 @@ namespace Pomodoro.Components
             }
         }
         #endregion
+        #region Event Adapter
+        public event EventHandler DispatherTimerTick
+        {
+            add { _dispatcherTime.Tick += value; }
+            remove { _dispatcherTime.Tick -= value; }
+        }
+        #endregion
         #region DispatcherTimer
         #region Methods
+        public void InvokeTimerTickEvent() => TimerTickEvent.Invoke(Time);
         public void Start() => _dispatcherTime.Start();
         public void Stop() => _dispatcherTime.Stop();
         public void Reset()
@@ -78,6 +89,8 @@ namespace Pomodoro.Components
             {
                 NotifyTimerStopEvent.Invoke();
             }
+
+            TimerTickEvent?.Invoke(Time);
         } 
         #endregion
         #endregion

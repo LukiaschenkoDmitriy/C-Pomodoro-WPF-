@@ -6,6 +6,7 @@ using System.Windows.Media.Media3D;
 using System.Windows.Threading;
 using System.Xaml.Permissions;
 using System.Xml.Linq;
+using Pomodoro.PomodoroComponents;
 
 namespace Pomodoro
 {
